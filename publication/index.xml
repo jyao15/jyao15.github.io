@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jianan Yao</title>
-    <link>https://www.cs.columbia.edu/~jianan/publication/</link>
-      <atom:link href="https://www.cs.columbia.edu/~jianan/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jyao15.github.io/publication/</link>
+      <atom:link href="https://jyao15.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.columbia.edu/~jianan/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jyao15.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/</link>
+      <link>https://jyao15.github.io/publication/</link>
     </image>
-    
+
     <item>
       <title>Mostly Automated Verification of Liveness Properties for Distributed Protocols with Ranking Function</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/lvr/</link>
+      <link>https://jyao15.github.io/publication/lvr/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/lvr/</guid>
+      <guid>https://jyao15.github.io/publication/lvr/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Leveraging Large Language Models for Automated Proof Synthesis in Rust</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/gpt-4-verus/</link>
+      <link>https://jyao15.github.io/publication/gpt-4-verus/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/gpt-4-verus/</guid>
+      <guid>https://jyao15.github.io/publication/gpt-4-verus/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>DuoAI: Fast, automated inference of inductive invariants for verifying distributed protocols</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/duo-ai/</link>
+      <link>https://jyao15.github.io/publication/duo-ai/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/duo-ai/</guid>
+      <guid>https://jyao15.github.io/publication/duo-ai/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Giallar: Push-Button Verification for the Qiskit Quantum Compiler</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/giallar/</link>
+      <link>https://jyao15.github.io/publication/giallar/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/giallar/</guid>
+      <guid>https://jyao15.github.io/publication/giallar/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/vrm/</link>
+      <link>https://jyao15.github.io/publication/vrm/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/vrm/</guid>
+      <guid>https://jyao15.github.io/publication/vrm/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Scivik: A versatile framework for specifying and verifying smart contracts</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/scivik/</link>
+      <link>https://jyao15.github.io/publication/scivik/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/scivik/</guid>
+      <guid>https://jyao15.github.io/publication/scivik/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>DistAI: Data-driven automated invariant learning for distributed protocols</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/dist-ai/</link>
+      <link>https://jyao15.github.io/publication/dist-ai/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/dist-ai/</guid>
+      <guid>https://jyao15.github.io/publication/dist-ai/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Gleipnir: toward practical error analysis for Quantum programs</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/gleipnir/</link>
+      <link>https://jyao15.github.io/publication/gleipnir/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/gleipnir/</guid>
+      <guid>https://jyao15.github.io/publication/gleipnir/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>CLN2INV: Learning Loop Invariants with Continuous Logic Networks</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/cln-2-inv/</link>
+      <link>https://jyao15.github.io/publication/cln-2-inv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/cln-2-inv/</guid>
+      <guid>https://jyao15.github.io/publication/cln-2-inv/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Learning nonlinear loop invariants with gated continuous logic networks</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/gcln/</link>
+      <link>https://jyao15.github.io/publication/gcln/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/gcln/</guid>
+      <guid>https://jyao15.github.io/publication/gcln/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>

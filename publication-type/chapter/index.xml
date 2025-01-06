@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chapter | Jianan Yao</title>
-    <link>https://www.cs.columbia.edu/~jianan/publication-type/chapter/</link>
-      <atom:link href="https://www.cs.columbia.edu/~jianan/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jyao15.github.io/publication-type/chapter/</link>
+      <atom:link href="https://jyao15.github.io/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>chapter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cs.columbia.edu/~jianan/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jyao15.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>chapter</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication-type/chapter/</link>
+      <link>https://jyao15.github.io/publication-type/chapter/</link>
     </image>
-    
+
     <item>
       <title>Scivik: A versatile framework for specifying and verifying smart contracts</title>
-      <link>https://www.cs.columbia.edu/~jianan/publication/scivik/</link>
+      <link>https://jyao15.github.io/publication/scivik/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.columbia.edu/~jianan/publication/scivik/</guid>
+      <guid>https://jyao15.github.io/publication/scivik/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>
